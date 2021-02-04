@@ -2,7 +2,7 @@
 
 ## **Визуализация:**
 
-![Algorithm](https://en.wikipedia.org/wiki/File:Bubble-sort-example-300px.gif)
+![Algorithm](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 ---
 ## **Описание:**
 
